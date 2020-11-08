@@ -14,7 +14,7 @@ public class FirstClass {
 		System.out.println("4 commit");
 		System.out.println("Here is a merg conflict I create");
 	    System.out.println("conflictmeshava hozi");	
-
+System.out.println("jangi oxiron from local master branch boyad shavad");
 	}
 
 }
