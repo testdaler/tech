@@ -11,6 +11,7 @@ public class FirstClass {
 		System.out.println("first commit from remoot master branch");
 		System.out.println("second commit from remote master branch");
 		System.out.println("Third commit from remoot master branch");
+		System.out.println("Here is conflict  from remoot master branch");
 		
 		
 
