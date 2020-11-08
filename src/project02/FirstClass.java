@@ -14,6 +14,7 @@ public class FirstClass {
 		System.out.println("4 commit");
 		System.out.println("Here is a merg conflict I create");
 	    System.out.println("conflictmeshava hozi");	
+		System.out.println(" Jangi ohir another conflict from remoot master branch ");	
 
 	}
 
